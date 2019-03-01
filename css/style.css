@@ -46,7 +46,7 @@ p {
 }
 
 .bg-primary {
-  background: #93cb52;
+  background: #e2af48;
   color: #fff;
 }
 
@@ -90,14 +90,14 @@ p {
 .btn {
   display: inline-block;
   color: #fff;
-  background: #93cb52;
+  background: #e2af48;
   padding: 0.5rem 2rem;
   border: none;
   border-radius: 5px;
 }
 
 .btn:hover {
-  background: #7ab436;
+  background: #e2af48;
 }
 
 .btn-dark {
@@ -140,7 +140,7 @@ p {
 }
 
 #navbar ul li a:hover {
-  background: #93cb52;
+  background: #e2af48;
   border-radius: 5px;
 }
 
@@ -181,7 +181,7 @@ p {
 }
 
 #what .items .item i {
-  background: #93cb52;
+  background: #e2af48;
   padding: 1rem;
   border-radius: 50%;
   margin-bottom: 1rem;
